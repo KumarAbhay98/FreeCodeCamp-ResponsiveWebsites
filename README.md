@@ -11,6 +11,5 @@
   <li><a href="https://survery-formm.netlify.app/" target=_blank>Survey form</a></li>
 </ul>
 
-<a  align="center" href="https://www.freecodecamp.org/KumarAbhay98" target="_blank">Link of CodeCampProfile </a>
 <p><strong>***Some part of th css files are clipped to prevent uniqueness of my projects</strong></p>
 
