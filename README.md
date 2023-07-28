@@ -12,4 +12,5 @@
 </ul>
 
 <a  align="center" href="https://www.freecodecamp.org/KumarAbhay98" target="_blank">Link of CodeCampProfile </a>
-<strong>Some part of th css files are clipped to prevent uniqueness of my projects</strong>
+<p><strong>***Some part of th css files are clipped to prevent uniqueness of my projects</strong></p>
+
