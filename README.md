@@ -2,7 +2,7 @@
 
 <h5>A group of 5 projects to get a certificate by FreeCodeCamp</h5>
 
-<h6>Name of the proejects</h6>
+<h6>Live links of the projects</h6>
 <ul>
   <li><a href="https://app.netlify.com/sites/portfolio-codecamp/" target="_blank">Portfolio</a></li>
   <li><a href="https://technical-documentationjavascript.netlify.app/" target="_blank">Tribute Page</a></li>
