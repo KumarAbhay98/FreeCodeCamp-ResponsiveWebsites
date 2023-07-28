@@ -4,11 +4,11 @@
 
 <h6>Name of the proejects</h6>
 <ul>
-  <li>Portfolio</li>
+  <li><a href="#">Portfolio</a></li>
   <li>Tribute Page</li>
-  <li>Product Landing Page</li>
+  <li><a href="https://slow-mo-danceacademy.netlify.app/" target=_blank">Product Landing Page</a></li>
   <li>Technical Documentation Page</li>
   <li>Survey form</li>
 </ul>
 
-<a  align="center" href="#" target="_blank">Link of CodeCampProfile </a>
+<a  align="center" href="https://www.freecodecamp.org/KumarAbhay98" target="_blank">Link of CodeCampProfile </a>
